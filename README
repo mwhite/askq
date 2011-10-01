@@ -1,0 +1,8 @@
+AskQ, a structured keyword search extension for Semantic MediaWiki
+Author: Michael White <m@mwhite.info>
+
+This is a fork/clone of the SVN repo for AskQ.  I don't plan on further developing AskQ, but I want the code to be more accessible.
+
+For documentation, see http://www.mediawiki.org/wiki/Extension:AskQ.
+
+
